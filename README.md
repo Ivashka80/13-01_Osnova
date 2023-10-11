@@ -49,8 +49,14 @@
 
 ![image](https://github.com/Ivashka80/13-01_Osnova/assets/121082757/1e78b373-7472-4371-ae49-0f234f8042ff)
 
+Также было найдено много уязвимости, ссылки на описание которых сразу же выдается при сканировании. Вот некоторые из них:
+- CVE-2010-4478 - https://vulners.com/cve/CVE-2010-4478;
+- SSV:60292 - https://vulners.com/seebug/SSV:60292;
+- CVE-2022-2795 -   https://vulners.com/cve/CVE-2022-2795.
 
-  
+![image](https://github.com/Ivashka80/13-01_Osnova/assets/121082757/6d437677-1ac1-424e-9a29-fa2bac6e3136)
+
+ 
 </details>
 
 
